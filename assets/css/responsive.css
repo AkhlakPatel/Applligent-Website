@@ -1,0 +1,1943 @@
+@media screen and (max-width: 1200px) {
+
+    /* ===================== Home Page Animation Start =====================*/
+    .box-1 {
+        width: 98px !important;
+    }
+
+    .box-2 {
+        width: 180px !important;
+    }
+
+    .box-3 {
+        width: 195px !important;
+    }
+
+    .box-4 {
+        right: -8px !important;
+        bottom: 31px !important;
+        width: 155px !important;
+    }
+
+
+    .tech_boxes .tech_box_1 {
+        width: 65px;
+    }
+
+    .tech_boxes .tech_box_2 {
+        width: 100px;
+    }
+
+    .tech_boxes .tech_box_3 {
+        width: 150px;
+    }
+
+    /* ===================== Home Page Animation End =====================*/
+
+    .c_image img {
+        max-height: 430px;
+    }
+
+
+    /* ===================== Service page Start =============*/
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 22px;
+    }
+
+    .service_section .development_title .development_info p {
+        font-size: 15px;
+    }
+
+    .service_section .development_title>h1 {
+        font-size: 50px;
+    }
+
+    /* ===================== Service page End =============*/
+
+    /* ===================== Contact page Start =============*/
+    .contact_table .address {
+        width: 150px;
+        padding: 5px;
+    }
+
+    /* ===================== Contact page End =============*/
+
+    /* ===================== Hire page Start =============*/
+    .current_openings_inner {
+        padding: 0 20px !important;
+    }
+
+    /* ===================== Hire page End =============*/
+
+
+
+}
+
+@media screen and (min-width: 992px) {
+
+    .global_subtitle {
+        margin-bottom: 2.5rem;
+    }
+
+    .achievement_list {
+        margin: 0px 80px;
+    }
+
+
+    /* ===================== Service Page Start ================ */
+    /* .service_section .development_content .development a {
+        font-size: 28px;
+    } */
+
+
+    /* .service_section .development_content .design a {
+        font-size: 28px;
+    } */
+
+    .service_section .development_section a.active::before {
+        margin-right: 10px;
+        background-size: 15px 15px;
+        width: 15px;
+        height: 15px;
+    }
+
+    .service_section .development_title .development_info img {
+        width: 40px;
+    }
+
+    /* .service_section .development_title .development_info p {
+        font-size: 14px;
+    } */
+
+    /* ===================== Service Page Start =============== */
+}
+
+@media screen and (max-width: 991px) {
+
+
+    .my_navbar .container {
+        max-width: 100%;
+        padding: 0px 20px;
+    }
+
+    .global_subtitle {
+        margin-bottom: 2rem;
+    }
+
+    .main_title {
+        margin-top: 60px;
+    }
+
+    .title {
+        font-size: 85px;
+    }
+
+    .hunred_991 {
+        min-width: 100% !important;
+    }
+
+    .ft_social_info {
+        margin-left: 0px !important;
+        margin-top: 220px;
+    }
+
+    .none_991 {
+        display: none;
+    }
+
+    .hero {
+        height: auto !important;
+    }
+
+    .hero_left {
+        margin-bottom: 55px;
+    }
+
+    .sq_2 {
+        left: 32px !important;
+        width: 85px !important;
+        top: 7px !important;
+    }
+
+    .square_images {
+        max-width: 500px;
+        width: 100%;
+        margin-top: 22px;
+        margin-bottom: 25px;
+    }
+
+    .hero_box {
+        /* flex-direction: column-reverse !important; */
+    }
+
+    .hero_box {
+        height: auto !important;
+    }
+
+    .home_top_box {
+        position: relative;
+        top: 0;
+    }
+
+    .language_inner {
+        padding: 50px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 0px;
+    }
+
+    .achievement_list {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 25px !important;
+        grid-row-gap: 25px;
+    }
+
+    .languageInfo.t_image2 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image4 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image6 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image7 {
+        border-top: 1px solid #c7baba;
+    }
+
+    .languageInfo.t_image8 {
+        border-top: 1px solid #c7baba;
+    }
+
+    ul.carousel-indicators.my_indicators {
+        right: -60px !important;
+    }
+
+    .service_card .margin_top_991 {
+        margin-top: 30px;
+    }
+
+    .c_image img {
+        max-width: 380px;
+    }
+
+    /* ===================== Home Page Animation Start =====================*/
+    .box-1 {
+        /* width: 98px !important; */
+        left: 203px !important;
+        width: auto !important;
+    }
+
+    .box-2 {
+        /* width: 180px !important; */
+        width: auto !important;
+        top: -25px !important;
+        right: 86px !important;
+    }
+
+    .box-3 {
+        width: 240px !important;
+        bottom: 40px !important;
+        left: 120px !important;
+    }
+
+    .box-4 {
+        right: 105px !important;
+        bottom: 82px !important;
+        /* width: 155px !important; */
+        width: auto !important;
+    }
+
+    .tech_boxes {
+        display: none;
+    }
+
+    /* ===================== Home Page Animation End =====================*/
+
+    /* ===================== Service Page Start ======== */
+    .global_subtitle {
+        font-size: 40px;
+    }
+
+    .sglobal_title {
+        font-size: 130px;
+    }
+
+    .development_content .development_content_padding {
+        padding: 25px 0px 15px 40px;
+    }
+
+    .mobile_border {
+        margin-bottom: 1rem;
+    }
+
+    .service_section .development_title>h1 {
+        font-size: 36px;
+    }
+
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 20px;
+    }
+
+    .service_section .development_section a.active::before {
+        margin-right: 10px;
+        background-size: 12px 12px;
+        width: 12px;
+        height: 12px;
+    }
+
+
+    .service_section .development_content .design a {
+        margin: 0;
+    }
+
+    .service_section .development_title .development_info img {
+        width: 40px;
+    }
+
+    .service_section .development_title .development_info p {
+        font-size: 14px;
+    }
+
+    .mobile_app_img img {
+        width: 100%;
+        /* height: 345px; */
+        height: auto;
+        margin-left: 12px;
+    }
+
+    .mobile_app_section {
+        border-radius: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+    .service_section .web_section {
+        /* height: 390px; */
+        height: auto;
+    }
+
+    .service_section .web_img img {
+        width: 100%;
+        /* height: 390px; */
+        height: auto;
+    }
+
+    .ui_content .heading h4 {
+        font-size: 28px;
+    }
+
+    .ui_content .sub_content p {
+        font-size: 18px;
+    }
+
+    .service_section .ui_content {
+        /* height: 390px; */
+        height: auto;
+    }
+
+    .service_section .ui_tools {
+        display: flex;
+        justify-content: center;
+    }
+
+    .connect_with_us .connect_with_bg .info h1 {
+        font-size: 42px;
+    }
+
+    .connect_with_us .connect_with_bg .info button {
+        font-size: 18px;
+        padding: 13px 20px;
+    }
+
+    .certifications .certification_image img {
+        width: 100px;
+    }
+
+    .certifications .achievement4 img {
+        width: 190px;
+    }
+
+    /* ===================== Service Page End =============*/
+
+    /* ===================== About Page Start =============*/
+    .commitment .commitment_inner h4 {
+        font-size: 34px;
+        line-height: 35px;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .commitment .commitment_inner button {
+        padding: 12px 25px !important;
+        margin: 0 1rem 1rem 0 !important;
+        font-size: 18px !important;
+    }
+
+    .commitment .functionality_inner img {
+        width: 100px;
+    }
+
+    .team .founder_inner h3 {
+        font-size: 28px;
+    }
+
+    .team .founder_inner p {
+        font-size: 24px;
+    }
+
+
+    .employee .employee_inner img {
+        border-radius: 10px;
+    }
+
+    .employee .employee_inner h3 {
+        font-size: 18px;
+    }
+
+    .employee .employee_inner p {
+        font-size: 16px;
+    }
+
+    .bg_border {
+        background: none;
+    }
+
+    .best_employee .border_circle {
+        /* display: none; */
+    }
+
+    .applligent_life .employee_images img {
+        height: 400px;
+    }
+
+    /* ===================== About Page End =============*/
+
+    /* ===================== Contact page Start =============*/
+    .contact_inner_section .details_inner .details_info h5 {
+        font-size: 18px;
+    }
+
+    .contact_inner_section .details_inner .details_info p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .contact_inner_section .details_inner .img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .contact_inner_section .details_inner img {
+        width: 25px;
+    }
+
+    .contact_inner_section .inquire_form {
+        margin-top: -7.1rem;
+        margin-left: 0rem;
+    }
+
+    .contact_inner_section .inquire_form .inquire_header {
+        padding: 20px;
+    }
+
+    .contact_inner_section .inquire_form form {
+        padding: 20px;
+    }
+
+
+    /* ===================== Contact page End =============*/
+
+    /* ===================== Work page Start =================== */
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner {
+        padding: 0 1rem;
+    }
+
+    .all_category .all_category_inner h6,
+    .web_category .all_category_inner h6,
+    .mobile_category .all_category_inner h6 {
+        font-size: 20px;
+        line-height: 10px;
+    }
+
+    .all_category .all_category_inner p,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner p {
+        font-family: bold;
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+    /* ===================== Work page End =================== */
+
+    /* ===================== Blogs page Start =================== */
+    .blogs_inner .content h6 {
+        font-size: 18px;
+    }
+
+    .latest_blog .content h2 {
+        font-size: 24px !important;
+    }
+
+    .blogs_inner .blog_title h2 {
+        padding: 10px 0;
+        font-size: 18px;
+    }
+
+    .blogs_inner .content h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .blogs_inner .content p {
+        font-size: 14px;
+    }
+
+    .blogs .blogs_inner .data {
+        margin: 1rem 0.2rem;
+    }
+
+    /* ===================== Blogs page End =================== */
+
+    /* ===================== Hire page Start =============*/
+    .cv_section_inner h2 {
+        font-size: 30px;
+    }
+
+    .cv_section_inner .or {
+        font-size: 16px;
+        padding: 10px;
+        top: -8px;
+    }
+
+    .cv_section_inner h1 {
+        font-size: 50px;
+    }
+
+    .current_openings_inner .developer_title {
+        font-size: 20px;
+    }
+
+    .current_openings_inner .job_type {
+        font-size: 16px;
+    }
+
+    .current_openings_inner .developer_desc {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .current_openings_inner .apply_btn {
+        font-size: 14px;
+        padding: 12px 16px;
+    }
+
+    .current_openings_inner .exp {
+        font-size: 16px;
+    }
+
+    .current_openings_inner .apply_btn i {
+        padding-left: 6px;
+    }
+
+    .current_openings_inner .tech span {
+        font-size: 16px;
+    }
+
+    /* ===================== Hire page End =============*/
+
+    /* ===================== Single Blog Start =============*/
+    .single_blog_section .blog_inner .blog_title {
+        font-size: 30px;
+    }
+
+    .single_blog_section .blog_inner .blog_title::before {
+        margin-right: 0.5rem;
+    }
+
+    .blog_connect_info .connect_us_info {
+        max-width: 475px;
+    }
+
+    .blog_connect_info .connect_with_us_inner {
+        height: 450px;
+    }
+
+    /* ===================== Single Blog End =============*/
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .global_subtitle {
+        margin-bottom: 2rem;
+    }
+
+    .main_title {
+        font-size: 60px;
+        line-height: 65px;
+        margin-top: 30px;
+    }
+
+    .menu_sub {
+        margin-top: 30px;
+        padding-top: 40px;
+        border-top: 1px solid #3f3f3f;
+    }
+
+    .explore_btn {
+        margin-top: inherit;
+        float: left;
+    }
+
+    .service_card .col-md-6 {
+        margin-bottom: 25px;
+    }
+
+    .creation_images .col-md-5 {
+        margin-top: 25px;
+    }
+
+    .service_card .margin_top_991 {
+        margin-top: inherit;
+    }
+
+    .video_play_btn img {
+        width: 60px !important;
+    }
+
+    .c_image img {
+        max-width: 100%;
+    }
+
+    /* ===================== Home Page Animation Start =====================*/
+    .box-1 {
+        width: 98px !important;
+        left: 83px !important;
+        width: auto !important;
+    }
+
+    .box-2 {
+        width: 200px !important;
+        top: -10px !important;
+        right: 60px !important;
+    }
+
+    .box-3 {
+        width: 210px !important;
+        bottom: 40px !important;
+        left: 40px !important;
+    }
+
+    .box-4 {
+        right: 45px !important;
+        bottom: 55px !important;
+        width: 165px !important;
+    }
+
+    /* ===================== Home Page Animation End =====================*/
+
+    .box-bg {
+        margin-bottom: 1rem;
+    }
+
+    /* ===================== Service Page Start ======== */
+    .global_subtitle {
+        font-size: 30px;
+    }
+
+    .global_title {
+        font-size: 100px;
+        line-height: 60px;
+    }
+
+    .service_section .development_title>h1 {
+        font-size: 40px;
+    }
+
+    .service_section .ui_content {
+        /* height: 360px; */
+        height: auto;
+    }
+
+    .connect_with_us .connect_with_bg .info h1 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    .connect_with_us .connect_with_bg .info p {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+
+    .connect_with_us .connect_with_bg .info button {
+        font-size: 18px;
+        padding: 13px 20px;
+        border-radius: 20px;
+    }
+
+    .certifications .certification_image img {
+        width: 100px;
+        margin-top: 1rem;
+    }
+
+    .achievement {
+        padding: 60px 0px;
+    }
+
+    .certifications .achievement4 img {
+        width: 200px;
+        margin-top: 1rem;
+    }
+
+    .development_info {
+        padding: 0 20px;
+    }
+
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 24px;
+    }
+
+    .service_section .development_title .development_info p {
+        font-size: 16px;
+    }
+
+    .tools {
+        width: 55px;
+        height: 55px;
+    }
+
+    .design_sec_padding {
+        padding: 0 !important;
+        padding-top: 2rem !important;
+        padding-bottom: 1rem !important;
+    }
+
+    .development_content .development_content_padding {
+        padding: 30px;
+    }
+
+    /* ===================== Service Page End =============*/
+
+    /* ===================== About Page Start =============*/
+
+
+    .commitment {
+        background-size: 100% auto;
+        padding-bottom: 2rem;
+    }
+
+    .commitment .functionality_inner img {
+        width: 80px;
+    }
+
+    .team .founder_inner p {
+        margin-bottom: 2rem;
+        line-height: 8px;
+    }
+
+    .employee .employee_inner h3 {
+        font-size: 24px;
+    }
+
+    .employee .employee_inner p {
+        font-size: 20px;
+        line-height: 8px;
+    }
+
+    .applligent_life .employee_images img {
+        height: auto;
+    }
+
+    .applligent_life .employee_images img {
+        height: auto;
+    }
+
+    /* ===================== About Page Start =============*/
+
+    /* ===================== Contact page Start =============*/
+
+
+    .contact_inner_section .details_inner .details_info h5 {
+        font-size: 18px;
+    }
+
+    .contact_inner_section .details_inner .details_info p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .contact_inner_section .details_inner .img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .contact_inner_section .details_inner img {
+        width: 25px;
+    }
+
+    .contact_inner_section .inquire_form {
+        margin-top: 1rem;
+        margin-left: 0rem;
+    }
+
+    .contact_inner_section .inquire_form .inquire_header {
+        padding: 10px 20px;
+    }
+
+    .contact_inner_section .inquire_form form {
+        padding: 20px;
+    }
+
+    .contact_inner_section {
+        margin-top: 3rem;
+    }
+
+    /* ===================== Contact page End =============*/
+
+    /* ===================== Work page Start =================== */
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner {
+        padding: 0;
+    }
+
+    .all_category .all_category_inner h6,
+    .web_category .all_category_inner h6,
+    .mobile_category .all_category_inner h6 {
+        font-size: 26px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner p,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner p {
+        font-size: 30px;
+        line-height: 36px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner:nth-child(even),
+    .mobile_category .all_category_inner:nth-child(even) {
+        margin-top: 0;
+    }
+
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner {
+        margin: 2rem 0 !important;
+    }
+
+    .all_category,
+    .mobile_category,
+    .web_category {
+        margin-bottom: 4rem;
+    }
+
+    /* ===================== Work page End =================== */
+
+    /* ===================== Blogs page Start =================== */
+    .blogs_inner .content h6 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .latest_blog .content h2 {
+        font-size: 24px !important;
+        text-align: center;
+    }
+
+    .blogs_inner .blog_title h2 {
+        padding: 10px 0;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .blogs_inner .content h2 {
+        font-size: 18px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .blogs_inner .content p {
+        font-size: 14px;
+    }
+
+    .blogs .blogs_inner .data {
+        margin: 1rem 0.2rem;
+    }
+
+    .blogs .blogs_inner .data img {
+        width: 100%;
+        height: auto;
+    }
+
+    .blogs {
+        margin-top: 5rem !important;
+        margin-bottom: 5rem;
+    }
+
+    /* ===================== Blogs page End =================== */
+
+
+    /* ===================== Hire page Start =============*/
+
+    .cv_section_inner h1 {
+        font-size: 50px;
+        width: 580px;
+    }
+
+    .current_openings_inner .developer_title {
+        font-size: 26px;
+    }
+
+    .current_openings_inner .job_type {
+        font-size: 18px;
+    }
+
+    .current_openings_inner .developer_desc {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .current_openings_inner .developer_desc {
+        padding-right: 0;
+    }
+
+    .current_openings_inner .apply_btn {
+        font-size: 16px;
+        padding: 15px 30px;
+    }
+
+    .current_openings_inner .exp {
+        font-size: 18px;
+    }
+
+    .current_openings_inner .apply_btn i {
+        padding-left: 10px;
+    }
+
+    .current_openings_inner .tech span {
+        font-size: 18px;
+    }
+
+    .current_openings .modal-dialog {
+        max-width: 520px !important;
+    }
+
+    .job_details {
+        padding: 20px 0 !important;
+    }
+
+    .job_details .details p {
+        font-size: 13px;
+    }
+
+    .job_details .img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .job_details img {
+        transform: translate(55%, 35%);
+        width: 20px;
+    }
+
+    /* ===================== Hire page End =============*/
+
+    /* ===================== Single Blog Start =============*/
+    .single_blog_section .blog_inner .blog_title {
+        margin-top: 1rem;
+        font-size: 28px;
+    }
+
+    .single_blog_section .blog_inner .blog_para {
+        margin-top: 1rem;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .single_blog_section .blog_inner ul li {
+        font-size: 16px;
+    }
+
+    .single_blog_section .blog_inner .blog_title::before {
+        margin-right: 0.5rem;
+    }
+
+    /* ===================== Single Blog End ===============*/
+}
+
+
+@media screen and (max-width: 575px) {
+
+    /* ===================== Navbar ==================== */
+    .navbar_right a {
+        display: none;
+    }
+
+    .nav_modal .modal-header {
+        padding: 20px;
+    }
+
+    /* ===================== Navbar ==================== */
+
+    .c_image img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .our_modal .modal-content {
+        height: 220px !important;
+    }
+
+    .language {
+        border-radius: 25px 25px 25px 25px !important;
+    }
+
+    .language_inner {
+        padding: 0px !important;
+    }
+
+    .technology {
+        padding-bottom: 35px;
+    }
+
+    .profile_descp .profile_info p {
+        font-size: 14px !important;
+    }
+
+    .footer_card_btn a {
+        font-size: 18px !important;
+        padding: 18px 26px !important;
+    }
+
+    .hiring_bs div {
+        font-size: 18px !important;
+    }
+
+    .card_box.footer_card .card_body {
+        padding: 20px !important;
+    }
+
+    .card_box.footer_card h2 {
+        font-size: 35px !important;
+        margin-bottom: 22px;
+    }
+
+    .card_box.footer_card p {
+        font-size: 20px !important;
+    }
+
+    .achievement_image img {
+        width: 150px !important;
+        padding: 15px !important;
+    }
+
+    .connect_us_info h2 {
+        font-size: 35px !important;
+    }
+
+    .client_feedback ul.carousel-indicators.my_indicators {
+        right: 0px !important;
+        left: 0px !important;
+        bottom: 0px !important;
+    }
+
+    .profile_descp {
+        margin-top: 30px !important;
+        padding-bottom: 40px;
+    }
+
+    .carousel_info {
+        padding: 20px !important;
+    }
+
+    .carousel_info p {
+        font-size: 20px !important;
+        line-height: 26px !important;
+    }
+
+    .blockquote_icon img {
+        width: 50px !important;
+    }
+
+    .service_card .card_body {
+        padding: 15px !important;
+    }
+
+    .card_body h4 {
+        font-size: 24px !important;
+    }
+
+    .hero_btn a {
+        padding: 14px 25px !important;
+    }
+
+    .main_logo {
+        /* text-align: center; */
+    }
+
+    .navbar_right {
+        text-align: center !important;
+        /* margin-top: 19px !important; */
+    }
+
+    .main_title {
+        font-size: 40px !important;
+        line-height: 47px !important;
+    }
+
+    .hero_sub {
+        margin: 20px 0px !important;
+    }
+
+    .sq_4 {
+        left: -28px !important;
+        width: 100px !important;
+    }
+
+    .sq_2 {
+        left: -2px !important;
+        top: -5px !important;
+    }
+
+    .sq_3 {
+        right: -19px !important;
+        width: 40px !important;
+    }
+
+    .square_images {
+        max-width: 320px !important;
+    }
+
+    .menus a {
+        font-size: 35px !important;
+        padding: 8px 0px;
+    }
+
+    .ms_1 h2 {
+        font-size: 35px !important;
+    }
+
+    .title {
+        font-size: 40px !important;
+    }
+
+    .sub_title {
+        font-size: 20px !important;
+    }
+
+    .sub_title:before {
+        height: 23px !important;
+    }
+
+    .language_inner {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .languageInfo.t_image1 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image3 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image5 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image7 {
+        border-right: none;
+    }
+
+    .languageInfo.t_image5 {
+        border-bottom: 1px solid #c7baba;
+    }
+
+    .achievement {
+        padding: 30px 0px;
+    }
+
+
+    .achievement_list {
+        grid-column-gap: 15px !important;
+        grid-row-gap: 15px !important;
+    }
+
+    /* ===================== Home Page Animation Start =====================*/
+
+    .anim_box {
+        width: 350px !important;
+        margin: auto;
+    }
+
+    .box-1 {
+        width: 78px !important;
+        top: 45px !important;
+        left: 46px !important;
+        /* width: auto !important; */
+    }
+
+    .box-2 {
+        width: 200px !important;
+        width: 165px !important;
+        top: -20px !important;
+        right: 20px !important;
+    }
+
+    .box-3 {
+        width: 150px !important;
+        bottom: 40px !important;
+        left: 40px !important;
+    }
+
+    .box-4 {
+        width: 135px !important;
+        right: 25px !important;
+        bottom: 35px !important;
+    }
+
+    /* ===================== Home Page Animation End =====================*/
+    .hero_btn a {
+        border-radius: 15px;
+        padding: 13px !important;
+        font-size: 16px;
+    }
+
+    .social_icon {
+        margin: 7px;
+        border-radius: 10px;
+    }
+
+    .square_img {
+        width: 70px !important;
+    }
+
+
+    /* ===================== Service Page Start ======== */
+    .global_subtitle {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .global_title {
+        font-size: 75px;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .service_section .development_title>h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .ui_content .sub_content p {
+        font-size: 16px;
+    }
+
+    .tools {
+        margin: 5px;
+        margin-left: 10px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .tools img {
+        width: 50%;
+    }
+
+    .service_section .ui_content {
+        /* height: 330px; */
+        height: auto;
+    }
+
+
+    .connect_with_us .connect_with_bg .info h1 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .connect_with_us .connect_with_bg .info p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .applligent_life .employee_images img {
+        object-fit: cover;
+    }
+
+    .best_employee .best_emp_inner h2 {
+        text-align: center;
+        font-size: 45px;
+    }
+
+    .best_employee .best_emp_inner h1 {
+        text-align: center;
+        font-size: 60px;
+        line-height: 50px;
+    }
+
+    .mobile_app_section,
+    .service_section .web_section,
+    .service_section .ui_content {
+        border-radius: 0px;
+    }
+
+    .service_section .development_title .development_info {
+        padding: 0 20px;
+    }
+
+    .development_content .development_content_padding {
+        padding: 12px;
+    }
+
+    .tech_name {
+        margin: 0 10px;
+        text-align: center;
+    }
+
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 22px;
+    }
+
+    .development_info {
+        padding-top: 25px !important;
+    }
+
+    .development_info {
+        width: 100%;
+    }
+
+    .ui_content .heading h4 {
+        font-size: 22px;
+    }
+
+    .ui_content .sub_content p {
+        line-height: 16px;
+    }
+
+    /* ===================== Service Page End =============*/
+
+    /* ===================== About Page Start =============*/
+    .best_employee {
+        padding: 3rem 0 4rem 0;
+    }
+
+    /* ===================== About Page End =============*/
+
+    /* ===================== Contact page Start =============*/
+
+    .contact_inner_section .details_inner {
+        margin-left: 2rem;
+    }
+
+    .contact_inner_section {
+        margin-top: 2rem;
+    }
+
+    /* ===================== Contact page End =============*/
+
+    /* ===================== Work page Start =================== */
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner {
+        padding: 1rem;
+    }
+
+    .all_category .all_category_inner h6,
+    .web_category .all_category_inner h6,
+    .mobile_category .all_category_inner h6 {
+        font-size: 22px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner p,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner p {
+        font-size: 26px;
+        line-height: 36px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner {
+        margin: 0.5rem 0 !important;
+    }
+
+    .tab button {
+        margin: 0px 15px;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .all_category,
+    .mobile_category,
+    .web_category {
+        margin-bottom: 3rem;
+    }
+
+    /* ===================== Work page End =================== */
+
+    /* ===================== Hire page Start =============*/
+    .cv_section_inner h2 {
+        font-size: 25px;
+    }
+
+    .cv_section_inner h1 {
+        font-size: 34px;
+        line-height: 50px;
+        width: 400px;
+    }
+
+    .cv_section_inner label {
+        font-size: 14px;
+        float: none;
+        line-height: 13px;
+    }
+
+    .cv_section_inner .upload_cv {
+        width: 370px;
+        height: 50px;
+        border-radius: 10px;
+    }
+
+    .cv_section_inner .upload_cv .upload_btn {
+        border-radius: 10px;
+        padding: 11px 20px;
+        font-size: 16px;
+    }
+
+    .current_openings_inner .apply_btn {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+
+    .job_details {
+        margin: 0 !important;
+        padding: 5px 0 !important;
+    }
+
+    .job_details .inner {
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+    }
+
+    .upload_cv_button {
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+
+    .inner .d-flex {
+        width: 145px;
+    }
+
+    /* ===================== Hire page End =============*/
+
+
+    /* ===================== Single Blog Start =============*/
+    .single_blog_section .illustration h3 {
+        font-size: 18px;
+    }
+
+    .single_blog_section .illustration .date {
+        font-size: 13px;
+    }
+
+
+    .single_blog_section .illustration .light_bg {
+        margin: 0 5px;
+        margin-top: -10px;
+        width: 35px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .single_blog_section .illustration .light_bg img {
+        width: 16px;
+    }
+
+    .single_blog_section .blog_inner img {
+        border-radius: 8px;
+    }
+
+    .single_blog_section .blog_inner img {
+        border-radius: 12px;
+    }
+
+    .single_blog_section .blog_inner .blog_title {
+        font-size: 26px;
+    }
+
+    .single_blog_section .blog_inner .blog_title::before {
+        margin-right: 0.2rem;
+    }
+
+    .single_blog_section .connect_with_us_inner {
+        border-radius: 0;
+    }
+
+    .blog_connect_info .connect_with_us_inner {
+        height: 400px;
+    }
+
+    .connect_us_btn a {
+        font-size: 18px;
+        padding: 18px 22px;
+    }
+
+    /* ===================== Single Blog End =============*/
+
+}
+
+@media screen and (max-width:380px) {
+
+
+
+    .global_subtitle {
+        margin-bottom: 1rem;
+    }
+
+    /* ===================== Navbar Start ======== */
+
+    .my_navbar {
+        /* margin-top: 10px; */
+    }
+
+    .my_navbar .container {
+        max-width: 100%;
+        padding: 0px 10px;
+    }
+
+    .main_logo img {
+        height: 40px;
+        width: auto;
+    }
+
+    .navbar_right img {
+        width: 40px;
+        margin-top: -5px;
+    }
+
+    .achievement_image img {
+        width: 120px !important;
+        padding: 15px !important;
+    }
+
+    .toggle_menu {
+        padding: 12px;
+        margin-top: -5px;
+    }
+
+    .nav_modal .modal-header {
+        padding: 10px;
+    }
+
+    .nav_modal .modal-title img {
+        width: 45px;
+    }
+
+    /* ===================== Navbar End ======== */
+
+    /* ===================== Home Page Animation Start =====================*/
+
+    .anim_box {
+        width: 300px !important;
+        margin: auto;
+    }
+
+    .box-1 {
+        width: 58px !important;
+        top: 30px !important;
+        left: 26px !important;
+        /* width: auto !important; */
+    }
+
+    .box-2 {
+        width: 200px !important;
+        width: 100px !important;
+        top: 0px !important;
+        right: 20px !important;
+    }
+
+    .box-3 {
+        width: 120px !important;
+        bottom: 40px !important;
+        left: 40px !important;
+    }
+
+    .box-4 {
+        width: 90px !important;
+        right: 25px !important;
+        bottom: 35px !important;
+    }
+
+    /* ===================== Home Page Animation End =====================*/
+
+    .hero_btn a {
+        border-radius: 10px;
+        padding: 12px !important;
+        font-size: 16px;
+    }
+
+    .square_img {
+        width: 50px !important;
+    }
+
+
+    .connect_with_us .connect_with_bg .info button {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+
+    /* ===================== Service Page Start ======== */
+    .global_subtitle {
+        font-size: 26px;
+    }
+
+    .global_title {
+        font-size: 70px;
+    }
+
+    .service_section .development_content .development a,
+    .service_section .development_content .design a {
+        font-size: 18px;
+    }
+
+    .service_section .development_section a.active::before {
+        margin-right: 5px;
+    }
+
+    .service_section .ui_content {
+        /* height: 400px; */
+        height: auto;
+    }
+
+    .certifications .certification_image img {
+        width: 80px;
+        margin-top: 1rem;
+    }
+
+    .achievement {
+        padding: 10px 0px;
+    }
+
+    .certifications .achievement4 img {
+        width: 180px;
+        margin-top: 1rem;
+    }
+
+    .connect_with_us .connect_with_bg {
+        border-radius: 10px;
+    }
+
+    .connect_with_us .connect_with_bg .info p {
+        font-size: 16px;
+        padding: 12px 5px;
+        line-height: 25px;
+    }
+
+    .development_content .development_content_padding {
+        padding: 10px;
+    }
+
+    .service_section .development_title>h1 {
+        font-size: 32px;
+        line-height: 45px;
+        text-align: center;
+    }
+
+    .service_section .development_title .development_info {
+        padding: 10px;
+    }
+
+    .tech_name {
+        margin: 0 10px;
+        text-align: center;
+    }
+
+    .ui_content .heading h4 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .design_sec_padding {
+        padding: 20px !important;
+    }
+
+    /* ===================== Service Page End =============*/
+
+
+    /* ===================== About Page Start =============*/
+    .team .founder_inner img {
+        border-radius: 15px;
+    }
+
+    .employee .employee_inner h3 {
+        font-size: 18px;
+    }
+
+    .employee .employee_inner p {
+        font-size: 16px;
+        line-height: 8px;
+    }
+
+    .employee .employee_inner img {
+        border-radius: 8px;
+    }
+
+    .applligent_life .global_title {
+        font-size: 60px;
+    }
+
+    .applligent_life .take_break {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .best_employee .best_emp_inner h2 {
+        font-size: 35px;
+    }
+
+    .best_employee .best_emp_inner h1 {
+        font-size: 50px;
+        line-height: 40px;
+    }
+
+
+    /* ===================== About Page End =u============*/
+
+    /* ===================== Contact page Start =============*/
+    .contact_inner_section .details_inner {
+        margin-left: 1rem;
+    }
+
+    .contact_inner_section {
+        margin-top: 2rem;
+    }
+
+    /* ===================== Contact page End =============*/
+
+    /* ===================== Work page Start =================== */
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner {
+        padding: 0.5rem;
+    }
+
+    .all_category .all_category_inner h6,
+    .web_category .all_category_inner h6,
+    .mobile_category .all_category_inner h6 {
+        font-size: 16px;
+        line-height: 10px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner p,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner p {
+        font-size: 20px;
+        line-height: 16px;
+        text-align: center;
+    }
+
+    .all_category .all_category_inner,
+    .mobile_category .all_category_inner,
+    .web_category .all_category_inner {
+        margin: 0 !important;
+    }
+
+    .tab button {
+        margin: 0px 5px;
+        padding: 5px;
+        font-size: 16px;
+    }
+
+    .all_category,
+    .mobile_category,
+    .web_category {
+        margin-bottom: 2rem;
+    }
+
+    /* ===================== Work page End =================== */
+
+
+    /* ===================== Blogs page Start =================== */
+    .blogs_inner .content h6 {
+        font-size: 18px;
+        text-align: center;
+        line-height: 10px;
+    }
+
+    .latest_blog .content h2 {
+        font-size: 20px !important;
+        text-align: center;
+    }
+
+    .blogs_inner .content h2 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .blogs {
+        margin-top: 3rem !important;
+        margin-bottom: 3rem;
+    }
+
+    /* ===================== Blogs page End =================== */
+
+    /* ===================== Hire page Start =============*/
+
+    .current_openings {
+        margin: 3rem 0;
+    }
+
+    .cv_section_inner h2 {
+        font-size: 20px;
+    }
+
+    .cv_section_inner h1 {
+        font-size: 28px;
+    }
+
+    .cv_section_inner .or {
+        font-size: 14px;
+        padding: 9px;
+        top: -5px;
+    }
+
+    .cv_section_inner .upload_cv {
+        width: 310px;
+        height: 49px;
+    }
+
+    .cv_section_inner .upload_cv .upload_label {
+        font-size: 14px;
+        top: 4px;
+    }
+
+    .cv_section_inner .upload_cv .upload_btn {
+        font-size: 14px;
+        padding: 12px 20px;
+    }
+
+    .current_openings_inner .developer_title {
+        font-size: 18px;
+    }
+
+    .current_openings_inner .job_type {
+        font-size: 14px;
+    }
+
+    .current_openings_inner .developer_desc {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .current_openings_inner .apply_btn {
+        font-size: 14px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .current_openings_inner .exp {
+        font-size: 16px;
+    }
+
+    .current_openings_inner .apply_btn i {
+        padding-left: 6px;
+    }
+
+    .current_openings_inner .tech span {
+        font-size: 16px;
+    }
+
+    /* ===================== Hire page End =============*/
+
+
+    /* ===================== Single Blog Start =============*/
+    .single_blog_section .illustration h3 {
+        font-size: 16px;
+    }
+
+    .single_blog_section .illustration .date {
+        font-size: 13px;
+    }
+
+
+    .single_blog_section .illustration .light_bg {
+        margin: 0 5px;
+        margin-top: 0px;
+        width: 45px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .single_blog_section .illustration .light_bg img {
+        width: 16px;
+    }
+
+    .single_blog_section .illustration .date {
+        font-size: 12px;
+    }
+
+    .single_blog_section .blog_inner img {
+        border-radius: 8px;
+    }
+
+    .single_blog_section .blog_inner .blog_title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .single_blog_section .blog_inner .blog_title::before {
+        background-size: 12px 12px;
+        width: 15px;
+        height: 15px;
+    }
+
+    .single_blog_section .connect_with_us_inner {
+        border-radius: 0;
+    }
+
+    .single_blog_section .connect_us_info h2 {
+        font-size: 30px !important;
+    }
+
+    .single_blog_section .connect_us_info p {
+        font-size: 16px;
+    }
+
+    .connect_us_btn a {
+        font-size: 18px;
+        padding: 15px 20px;
+    }
+
+    .blog_connect_info .connect_with_us_inner {
+        height: 375px;
+    }
+
+    /* ===================== Single Blog End =============*/
+
+
+}
